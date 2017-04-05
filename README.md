@@ -19,7 +19,7 @@ R chipseeker.r [options] peak_file TxDb_object
 
 [options]
 
-# 1. upstream value : default is 3000
-# 2. downstream value : default is 3000
+ 1. upstream value : default is 3000
+ 2. downstream value : default is 3000
 
 
