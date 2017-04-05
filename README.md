@@ -2,6 +2,7 @@
 an R package for ChIP peak Annotation, Comparison and Visualization
 
 Depends >= 3.3.0
+
  This package implements functions to retrieve the nearest genes
 around the peak, annotate genomic region of the peak, statstical methods
 for estimate the significance of overlap among ChIP peak data sets, and
@@ -15,7 +16,7 @@ genes.
 
 Usage:
 
-R chipseeker.r [options] peak_file TxDb_object
+RScript chipseeker.r [options] peak_file TxDb_object
 
 [options]
 
